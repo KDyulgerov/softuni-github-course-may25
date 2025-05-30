@@ -1,3 +1,7 @@
 Content of the first feature
 
 Adding extra Content
+
+Editing and fixing Content
+
+Making some improvements
