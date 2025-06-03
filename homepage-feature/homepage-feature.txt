@@ -1,1 +1,3 @@
 the content of homepage feature
+
+adding extra content
